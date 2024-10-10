@@ -19,5 +19,7 @@ You can get it on
 https://deltaexploits.gg/
 And if you dont want more ads,
 https://deltaexploits.gg/delta-executor-mobile
+And for mediafire,
+https://www.mediafire.com/file/nq01q95qkivoqed/Delta-2.645.665.apk/file
 
 GoodLuck learning scripting, buddy!
