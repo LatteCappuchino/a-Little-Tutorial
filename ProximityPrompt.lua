@@ -45,3 +45,8 @@ Waits a second after executing the script, before executing next code.
 
 fireP()
 Fires the function, which fires the ProximityPrompt.
+]]
+--[[QUICK REMINDER
+You can copy&paste this and use it,
+the text wont break the script.
+]]
