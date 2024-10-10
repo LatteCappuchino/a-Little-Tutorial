@@ -17,5 +17,7 @@ Delta!
 You can get it on
 
 https://deltaexploits.gg/
+And if you dont want more ads,
+https://deltaexploits.gg/delta-executor-mobile
 
 GoodLuck learning scripting, buddy!
