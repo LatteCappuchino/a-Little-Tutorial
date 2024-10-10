@@ -18,7 +18,7 @@ wait(1)
 FireTI()
 
 --Now, let's see what everything does.
-local plr=game:GetService("Players").LocalPlayer
+--local plr=game:GetService("Players").LocalPlayer
 --[[This variable gets our Player, the game:GetService("Players")
 gets ALL the Players in game.
 
